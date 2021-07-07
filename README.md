@@ -3,7 +3,7 @@
 This is simple Dice roller simulator for DnD. 
 Fun little project to test out Tkinter.
 
-##To do:
+## To do:
 - add result copy-paste 
 - show rolling history
 - show statistics of means, best and worst rolls
